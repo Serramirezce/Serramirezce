@@ -21,8 +21,8 @@
 ### 🌐 Languages
 
 - 🇪🇸 Spanish — Native
-- 🇬🇧 English — Professional Working Proficiency
-- 🇵🇹 Portuguese — Intermediate
+- 🇺🇸 English — Professional Working Proficiency
+- 🇧🇷 Brazilian Portuguese — Intermediate
 - 🇨🇳 Mandarin Chinese — Basic / Learning
 
 ---

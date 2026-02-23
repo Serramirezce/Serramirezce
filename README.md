@@ -64,14 +64,11 @@
 
 ### 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serramirezce&show_icons=true&locale=en&layout=compact" alt="serramirezce" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=serramirezce&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serramirezce&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=serramirezce&show_icons=true&locale=en" alt="serramirezce" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serramirezce&" alt="serramirezce" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=serramirezce&theme=tokyonight&hide_border=true" />
 </p>
